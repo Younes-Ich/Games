@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1702398862 source:c:\study\games\snake\main.cpp
+	"snake.h"
+
+1702398960 c:\study\games\snake\snake.h
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<signal.h>
+	<Windows.h>
+
+1702400807 source:c:\study\games\snake\snake.cpp
+	"snake.h"
+
